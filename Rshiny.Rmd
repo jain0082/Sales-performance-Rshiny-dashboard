@@ -1,0 +1,118 @@
+---
+title: "Rshiny"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(shiny)
+library(shinydashboard)
+library(dplyr)
+library(ggplot2)
+library(lubridate)
+library(purrr)
+library(DT)
+```
+
+```{r}
+
+setwd("C://Users//Monica Jain//Documents//GitHub//Rshiny sales dashboard")
+sales <- read.csv("data_rshiny.csv")
+str(sales)
+summary(sales)
+
+Total_sales <- sales %>% group_by(Month, Year, Category) %>% summarise(Actual.Revenue= sum(Actual.Revenue), 
+                    Budgeted.Revenue= sum(Budgeted.Revenue), Channel = "Total" ) %>% ungroup()
+
+Total_sales$Month <- factor(Total_sales$Month, levels = c("Jan", "Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"), ordered= TRUE)
+
+Total_sales = Total_sales[order(Total_sales$Month,decreasing=FALSE),]
+
+Total_sales <- Total_sales %>% arrange(Year, Category)
+
+sales <- rbind(sales, Total_sales)
+sales$Date <- as.Date(paste("01 ", sales$Month," ", sales$Year), format="%d %b %Y")
+
+attach(sales)
+
+```
+
+#UI
+```{r}
+
+ui <- fluidPage(    
+  # Give the page a title
+  titlePanel("Sales by Category"),
+  
+  # Generate a row with a sidebar
+  sidebarLayout(      
+    
+    # Define the sidebar with one input
+    sidebarPanel(
+      selectInput("Category", "Category:", 
+                  choices= unique(sales$Category),
+                  label = "Choose a Category"),
+      
+      hr(),
+      radioButtons("Channel", "Channel:", choices = c("Brick and Mortar", "E-commerce","Total"), 
+                   selected = "Brick and Mortar"),
+  
+      dateRangeInput("Date", strong("Date range"), start = "2013-01-01", end = "2013-12-01",
+                     min = "2013-01-01", max = "2015-12-01"),
+      
+      helpText("Financial Planning and Assessment")
+    ),
+    
+    # Create a spot for the barplot
+    mainPanel(
+      tabsetPanel(
+        tabPanel("Plot", plotOutput("SalePlot"), plotOutput("CategoryPlot")), 
+        tabPanel("Table", tableOutput("SaleTable")))
+    )
+  )
+)
+
+
+server <- function(input, output) { 
+  
+  output$SalePlot <- renderPlot({
+    x <- sales %>% filter(Category == input$Category & Date >= input$Date[1] 
+                          & Date <= input$Date[2] & Channel== input$Channel)
+    
+    barplot(matrix(c(x$Budgeted.Revenue,x$Actual.Revenue), nrow=2,byrow = TRUE),
+            beside = TRUE,
+            main= paste(input$Category,"-",input$Channel,"sales"),
+            ylab="Revenue",
+            names.arg = paste(x$Month,"'",substr(x$Year,3,4)),
+            col =c("cadetblue2","brown3"))
+    
+    legend("topright",
+          c("Budget sales","Actual sales"),
+          fill = c("cadetblue2","brown")
+)
+  })
+  
+  output$CategoryPlot <- renderPlot({
+    x <- sales %>% filter(Date >= input$Date[1] 
+                          & Date <= input$Date[2] & Channel== input$Channel) %>%
+      group_by(Category) %>% summarise(Revenue = sum(Actual.Revenue)) %>% ungroup()
+    
+    barplot(x$Revenue,
+            main= paste(input$Date[1],"-",input$Date[2],":",input$Channel,"sales"),
+            axisnames = TRUE,legend.text = TRUE,
+            space = 0.5,
+            ylab="Actual Revenue",
+            names.arg = x$Category,
+            col ="cadetblue4")
+    
+  })
+  output$SaleTable <- renderTable({
+    x <- sales %>% filter(Category == input$Category & Date >= input$Date[1] 
+                          & Date <= input$Date[2] & Channel== input$Channel) %>% select(-Channel, -Date)
+    x
+  })
+}
+
+shinyApp(ui, server)
+

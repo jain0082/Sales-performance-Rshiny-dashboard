@@ -1,0 +1,433 @@
+Month,Year,Category,Actual Revenue,Budgeted Revenue,Channel
+Jan,2013,Mobile,96615,91389,Brick and Mortar
+Feb,2013,Mobile,92678,80265,Brick and Mortar
+Mar,2013,Mobile,75884,80661,Brick and Mortar
+Apr,2013,Mobile,95601,72281,Brick and Mortar
+May,2013,Mobile,89094,96908,Brick and Mortar
+Jun,2013,Mobile,73581,90328,Brick and Mortar
+Jul,2013,Mobile,87073,81224,Brick and Mortar
+Aug,2013,Mobile,75511,71158,Brick and Mortar
+Sep,2013,Mobile,80907,79793,Brick and Mortar
+Oct,2013,Mobile,99204,71480,Brick and Mortar
+Nov,2013,Mobile,87897,86455,Brick and Mortar
+Dec,2013,Mobile,77751,72024,Brick and Mortar
+Jan,2013,LCD,51123,42974,Brick and Mortar
+Feb,2013,LCD,41329,55091,Brick and Mortar
+Mar,2013,LCD,62035,67928,Brick and Mortar
+Apr,2013,LCD,67385,58022,Brick and Mortar
+May,2013,LCD,60864,47286,Brick and Mortar
+Jun,2013,LCD,57171,65057,Brick and Mortar
+Jul,2013,LCD,49952,62083,Brick and Mortar
+Aug,2013,LCD,50156,42955,Brick and Mortar
+Sep,2013,LCD,57330,69178,Brick and Mortar
+Oct,2013,LCD,43983,45334,Brick and Mortar
+Nov,2013,LCD,55379,49503,Brick and Mortar
+Dec,2013,LCD,42126,44143,Brick and Mortar
+Jan,2013,Headphones,4335,9163,Brick and Mortar
+Feb,2013,Headphones,8508,7430,Brick and Mortar
+Mar,2013,Headphones,8847,6992,Brick and Mortar
+Apr,2013,Headphones,4120,8290,Brick and Mortar
+May,2013,Headphones,7193,8399,Brick and Mortar
+Jun,2013,Headphones,5576,8667,Brick and Mortar
+Jul,2013,Headphones,7834,4772,Brick and Mortar
+Aug,2013,Headphones,4210,5003,Brick and Mortar
+Sep,2013,Headphones,6336,5882,Brick and Mortar
+Oct,2013,Headphones,7817,9299,Brick and Mortar
+Nov,2013,Headphones,4280,5783,Brick and Mortar
+Dec,2013,Headphones,6309,8537,Brick and Mortar
+Jan,2013,Computers,146290,160265,Brick and Mortar
+Feb,2013,Computers,160102,160245,Brick and Mortar
+Mar,2013,Computers,158316,119153,Brick and Mortar
+Apr,2013,Computers,116548,130156,Brick and Mortar
+May,2013,Computers,194252,118743,Brick and Mortar
+Jun,2013,Computers,117460,124097,Brick and Mortar
+Jul,2013,Computers,172800,173204,Brick and Mortar
+Aug,2013,Computers,179403,143876,Brick and Mortar
+Sep,2013,Computers,194759,117824,Brick and Mortar
+Oct,2013,Computers,175567,134054,Brick and Mortar
+Nov,2013,Computers,156638,146502,Brick and Mortar
+Dec,2013,Computers,122586,146008,Brick and Mortar
+Jan,2013,Video games,73161,93578,Brick and Mortar
+Feb,2013,Video games,82966,81045,Brick and Mortar
+Mar,2013,Video games,78955,79867,Brick and Mortar
+Apr,2013,Video games,53433,71280,Brick and Mortar
+May,2013,Video games,94087,65026,Brick and Mortar
+Jun,2013,Video games,50819,68738,Brick and Mortar
+Jul,2013,Video games,86715,70389,Brick and Mortar
+Aug,2013,Video games,59504,76526,Brick and Mortar
+Sep,2013,Video games,90958,90319,Brick and Mortar
+Oct,2013,Video games,74861,85750,Brick and Mortar
+Nov,2013,Video games,92816,62805,Brick and Mortar
+Dec,2013,Video games,98642,63184,Brick and Mortar
+Jan,2013,Speakers,10835,13929,Brick and Mortar
+Feb,2013,Speakers,83553,81990,Brick and Mortar
+Mar,2013,Speakers,78080,31630,Brick and Mortar
+Apr,2013,Speakers,39645,10888,Brick and Mortar
+May,2013,Speakers,57130,51540,Brick and Mortar
+Jun,2013,Speakers,64292,59404,Brick and Mortar
+Jul,2013,Speakers,75839,13152,Brick and Mortar
+Aug,2013,Speakers,14804,30338,Brick and Mortar
+Sep,2013,Speakers,54941,82869,Brick and Mortar
+Oct,2013,Speakers,13081,29229,Brick and Mortar
+Nov,2013,Speakers,71512,70718,Brick and Mortar
+Dec,2013,Speakers,40378,93533,Brick and Mortar
+Jan,2014,Mobile,96699,91517,Brick and Mortar
+Feb,2014,Mobile,93678,81216,Brick and Mortar
+Mar,2014,Mobile,76350,81284,Brick and Mortar
+Apr,2014,Mobile,96399,72396,Brick and Mortar
+May,2014,Mobile,89859,97353,Brick and Mortar
+Jun,2014,Mobile,74152,90600,Brick and Mortar
+Jul,2014,Mobile,87679,81368,Brick and Mortar
+Aug,2014,Mobile,76362,71686,Brick and Mortar
+Sep,2014,Mobile,81536,80672,Brick and Mortar
+Oct,2014,Mobile,99409,71908,Brick and Mortar
+Nov,2014,Mobile,88105,87253,Brick and Mortar
+Dec,2014,Mobile,78242,72243,Brick and Mortar
+Jan,2014,LCD,51721,43936,Brick and Mortar
+Feb,2014,LCD,41565,56085,Brick and Mortar
+Mar,2014,LCD,62758,68665,Brick and Mortar
+Apr,2014,LCD,68121,58260,Brick and Mortar
+May,2014,LCD,61295,47918,Brick and Mortar
+Jun,2014,LCD,57646,65318,Brick and Mortar
+Jul,2014,LCD,50891,63079,Brick and Mortar
+Aug,2014,LCD,50912,43118,Brick and Mortar
+Sep,2014,LCD,57631,69340,Brick and Mortar
+Oct,2014,LCD,44857,45555,Brick and Mortar
+Nov,2014,LCD,55690,50234,Brick and Mortar
+Dec,2014,LCD,42216,44872,Brick and Mortar
+Jan,2014,Headphones,4796,9682,Brick and Mortar
+Feb,2014,Headphones,8709,8197,Brick and Mortar
+Mar,2014,Headphones,9202,7578,Brick and Mortar
+Apr,2014,Headphones,5074,8809,Brick and Mortar
+May,2014,Headphones,7747,8751,Brick and Mortar
+Jun,2014,Headphones,5861,8835,Brick and Mortar
+Jul,2014,Headphones,8002,5363,Brick and Mortar
+Aug,2014,Headphones,4766,5175,Brick and Mortar
+Sep,2014,Headphones,6674,6162,Brick and Mortar
+Oct,2014,Headphones,7923,9595,Brick and Mortar
+Nov,2014,Headphones,5044,6316,Brick and Mortar
+Dec,2014,Headphones,6994,8647,Brick and Mortar
+Jan,2014,Computers,147214,160964,Brick and Mortar
+Feb,2014,Computers,161093,160572,Brick and Mortar
+Mar,2014,Computers,158509,119783,Brick and Mortar
+Apr,2014,Computers,116657,130951,Brick and Mortar
+May,2014,Computers,194609,119021,Brick and Mortar
+Jun,2014,Computers,118105,124494,Brick and Mortar
+Jul,2014,Computers,173543,174022,Brick and Mortar
+Aug,2014,Computers,180286,144403,Brick and Mortar
+Sep,2014,Computers,195297,118672,Brick and Mortar
+Oct,2014,Computers,175673,134808,Brick and Mortar
+Nov,2014,Computers,157638,147364,Brick and Mortar
+Dec,2014,Computers,122990,146453,Brick and Mortar
+Jan,2014,Video games,73414,94139,Brick and Mortar
+Feb,2014,Video games,83960,81568,Brick and Mortar
+Mar,2014,Video games,79882,80693,Brick and Mortar
+Apr,2014,Video games,53803,71990,Brick and Mortar
+May,2014,Video games,94256,65868,Brick and Mortar
+Jun,2014,Video games,50909,68982,Brick and Mortar
+Jul,2014,Video games,86992,71224,Brick and Mortar
+Aug,2014,Video games,59650,77030,Brick and Mortar
+Sep,2014,Video games,91711,91027,Brick and Mortar
+Oct,2014,Video games,75416,86246,Brick and Mortar
+Nov,2014,Video games,93433,63004,Brick and Mortar
+Dec,2014,Video games,98767,63649,Brick and Mortar
+Jan,2014,Speakers,11422,14688,Brick and Mortar
+Feb,2014,Speakers,83972,82764,Brick and Mortar
+Mar,2014,Speakers,78271,32472,Brick and Mortar
+Apr,2014,Speakers,40363,10951,Brick and Mortar
+May,2014,Speakers,57894,51743,Brick and Mortar
+Jun,2014,Speakers,64362,59983,Brick and Mortar
+Jul,2014,Speakers,76420,13361,Brick and Mortar
+Aug,2014,Speakers,15146,30486,Brick and Mortar
+Sep,2014,Speakers,55935,83738,Brick and Mortar
+Oct,2014,Speakers,13542,29891,Brick and Mortar
+Nov,2014,Speakers,72387,71436,Brick and Mortar
+Dec,2014,Speakers,40801,93651,Brick and Mortar
+Jan,2015,Mobile,96452,91353,Brick and Mortar
+Feb,2015,Mobile,92740,81078,Brick and Mortar
+Mar,2015,Mobile,75997,81124,Brick and Mortar
+Apr,2015,Mobile,95777,72447,Brick and Mortar
+May,2015,Mobile,89468,97088,Brick and Mortar
+Jun,2015,Mobile,73236,90545,Brick and Mortar
+Jul,2015,Mobile,87134,81196,Brick and Mortar
+Aug,2015,Mobile,76231,71759,Brick and Mortar
+Sep,2015,Mobile,80729,80439,Brick and Mortar
+Oct,2015,Mobile,99291,72169,Brick and Mortar
+Nov,2015,Mobile,87138,87457,Brick and Mortar
+Dec,2015,Mobile,78272,72612,Brick and Mortar
+Jan,2015,LCD,50890,43752,Brick and Mortar
+Feb,2015,LCD,41104,56378,Brick and Mortar
+Mar,2015,LCD,62018,69106,Brick and Mortar
+Apr,2015,LCD,68077,58527,Brick and Mortar
+May,2015,LCD,60561,47770,Brick and Mortar
+Jun,2015,LCD,57382,65739,Brick and Mortar
+Jul,2015,LCD,50353,62733,Brick and Mortar
+Aug,2015,LCD,50139,43583,Brick and Mortar
+Sep,2015,LCD,56830,69447,Brick and Mortar
+Oct,2015,LCD,44691,45307,Brick and Mortar
+Nov,2015,LCD,54709,49794,Brick and Mortar
+Dec,2015,LCD,41598,45334,Brick and Mortar
+Jan,2015,Headphones,4263,9339,Brick and Mortar
+Feb,2015,Headphones,8701,7772,Brick and Mortar
+Mar,2015,Headphones,8541,7084,Brick and Mortar
+Apr,2015,Headphones,4914,8326,Brick and Mortar
+May,2015,Headphones,7151,8430,Brick and Mortar
+Jun,2015,Headphones,5214,8634,Brick and Mortar
+Jul,2015,Headphones,7330,5530,Brick and Mortar
+Aug,2015,Headphones,4402,5668,Brick and Mortar
+Sep,2015,Headphones,6203,6302,Brick and Mortar
+Oct,2015,Headphones,7309,9198,Brick and Mortar
+Nov,2015,Headphones,4161,6206,Brick and Mortar
+Dec,2015,Headphones,6229,8332,Brick and Mortar
+Jan,2015,Computers,146422,161360,Brick and Mortar
+Feb,2015,Computers,161067,160383,Brick and Mortar
+Mar,2015,Computers,158406,119987,Brick and Mortar
+Apr,2015,Computers,116750,131091,Brick and Mortar
+May,2015,Computers,194665,118666,Brick and Mortar
+Jun,2015,Computers,117589,124598,Brick and Mortar
+Jul,2015,Computers,173117,174440,Brick and Mortar
+Aug,2015,Computers,179959,144005,Brick and Mortar
+Sep,2015,Computers,194516,118323,Brick and Mortar
+Oct,2015,Computers,174697,134800,Brick and Mortar
+Nov,2015,Computers,157212,147044,Brick and Mortar
+Dec,2015,Computers,122033,146729,Brick and Mortar
+Jan,2015,Video games,72517,93870,Brick and Mortar
+Feb,2015,Video games,83666,82014,Brick and Mortar
+Mar,2015,Video games,79604,80203,Brick and Mortar
+Apr,2015,Video games,53577,72352,Brick and Mortar
+May,2015,Video games,93341,65393,Brick and Mortar
+Jun,2015,Video games,50012,69325,Brick and Mortar
+Jul,2015,Video games,86605,70974,Brick and Mortar
+Aug,2015,Video games,59684,76636,Brick and Mortar
+Sep,2015,Video games,90871,90843,Brick and Mortar
+Oct,2015,Video games,74818,86332,Brick and Mortar
+Nov,2015,Video games,92536,63083,Brick and Mortar
+Dec,2015,Video games,98276,64146,Brick and Mortar
+Jan,2015,Speakers,10741,14695,Brick and Mortar
+Feb,2015,Speakers,83220,82744,Brick and Mortar
+Mar,2015,Speakers,77771,32282,Brick and Mortar
+Apr,2015,Speakers,39954,11350,Brick and Mortar
+May,2015,Speakers,57183,51421,Brick and Mortar
+Jun,2015,Speakers,64205,59776,Brick and Mortar
+Jul,2015,Speakers,76490,13345,Brick and Mortar
+Aug,2015,Speakers,14698,30249,Brick and Mortar
+Sep,2015,Speakers,55960,84036,Brick and Mortar
+Oct,2015,Speakers,12561,29768,Brick and Mortar
+Nov,2015,Speakers,72485,71168,Brick and Mortar
+Dec,2015,Speakers,40018,94054,Brick and Mortar
+Jan,2013,Mobile,386460,274167,E-commerce
+Feb,2013,Mobile,370712,240795,E-commerce
+Mar,2013,Mobile,151768,241983,E-commerce
+Apr,2013,Mobile,478005,144562,E-commerce
+May,2013,Mobile,267282,484540,E-commerce
+Jun,2013,Mobile,147162,270984,E-commerce
+Jul,2013,Mobile,174146,243672,E-commerce
+Aug,2013,Mobile,377555,142316,E-commerce
+Sep,2013,Mobile,404535,398965,E-commerce
+Oct,2013,Mobile,396816,142960,E-commerce
+Nov,2013,Mobile,175794,345820,E-commerce
+Dec,2013,Mobile,311004,144048,E-commerce
+Jan,2013,LCD,153369,171896,E-commerce
+Feb,2013,LCD,165316,220364,E-commerce
+Mar,2013,LCD,124070,135856,E-commerce
+Apr,2013,LCD,134770,232088,E-commerce
+May,2013,LCD,243456,236430,E-commerce
+Jun,2013,LCD,171513,195171,E-commerce
+Jul,2013,LCD,199808,248332,E-commerce
+Aug,2013,LCD,100312,214775,E-commerce
+Sep,2013,LCD,114660,345890,E-commerce
+Oct,2013,LCD,175932,136002,E-commerce
+Nov,2013,LCD,221516,247515,E-commerce
+Dec,2013,LCD,168504,220715,E-commerce
+Jan,2013,Headphones,21675,45815,E-commerce
+Feb,2013,Headphones,42540,29720,E-commerce
+Mar,2013,Headphones,35388,13984,E-commerce
+Apr,2013,Headphones,16480,33160,E-commerce
+May,2013,Headphones,14386,16798,E-commerce
+Jun,2013,Headphones,27880,26001,E-commerce
+Jul,2013,Headphones,31336,9544,E-commerce
+Aug,2013,Headphones,16840,25015,E-commerce
+Sep,2013,Headphones,12672,23528,E-commerce
+Oct,2013,Headphones,15634,46495,E-commerce
+Nov,2013,Headphones,21400,23132,E-commerce
+Dec,2013,Headphones,31545,34148,E-commerce
+Jan,2013,Computers,438870,801325,E-commerce
+Feb,2013,Computers,480306,801225,E-commerce
+Mar,2013,Computers,791580,595765,E-commerce
+Apr,2013,Computers,582740,260312,E-commerce
+May,2013,Computers,971260,356229,E-commerce
+Jun,2013,Computers,469840,248194,E-commerce
+Jul,2013,Computers,518400,346408,E-commerce
+Aug,2013,Computers,897015,431628,E-commerce
+Sep,2013,Computers,389518,589120,E-commerce
+Oct,2013,Computers,702268,670270,E-commerce
+Nov,2013,Computers,626552,732510,E-commerce
+Dec,2013,Computers,490344,584032,E-commerce
+Jan,2013,Video games,292644,374312,E-commerce
+Feb,2013,Video games,331864,162090,E-commerce
+Mar,2013,Video games,315820,239601,E-commerce
+Apr,2013,Video games,267165,356400,E-commerce
+May,2013,Video games,188174,195078,E-commerce
+Jun,2013,Video games,203276,137476,E-commerce
+Jul,2013,Video games,346860,351945,E-commerce
+Aug,2013,Video games,119008,382630,E-commerce
+Sep,2013,Video games,363832,451595,E-commerce
+Oct,2013,Video games,374305,171500,E-commerce
+Nov,2013,Video games,278448,314025,E-commerce
+Dec,2013,Video games,493210,252736,E-commerce
+Jan,2013,Speakers,32505,69645,E-commerce
+Feb,2013,Speakers,250659,163980,E-commerce
+Mar,2013,Speakers,234240,94890,E-commerce
+Apr,2013,Speakers,79290,43552,E-commerce
+May,2013,Speakers,285650,103080,E-commerce
+Jun,2013,Speakers,192876,297020,E-commerce
+Jul,2013,Speakers,379195,52608,E-commerce
+Aug,2013,Speakers,59216,151690,E-commerce
+Sep,2013,Speakers,274705,414345,E-commerce
+Oct,2013,Speakers,52324,116916,E-commerce
+Nov,2013,Speakers,286048,212154,E-commerce
+Dec,2013,Speakers,80756,467665,E-commerce
+Jan,2014,Mobile,386796,183034,E-commerce
+Feb,2014,Mobile,374712,243648,E-commerce
+Mar,2014,Mobile,152700,325136,E-commerce
+Apr,2014,Mobile,289197,289584,E-commerce
+May,2014,Mobile,179718,194706,E-commerce
+Jun,2014,Mobile,222456,181200,E-commerce
+Jul,2014,Mobile,263037,162736,E-commerce
+Aug,2014,Mobile,152724,215058,E-commerce
+Sep,2014,Mobile,326144,403360,E-commerce
+Oct,2014,Mobile,298227,215724,E-commerce
+Nov,2014,Mobile,176210,349012,E-commerce
+Dec,2014,Mobile,391210,361215,E-commerce
+Jan,2014,LCD,206884,219680,E-commerce
+Feb,2014,LCD,166260,112170,E-commerce
+Mar,2014,LCD,251032,274660,E-commerce
+Apr,2014,LCD,136242,291300,E-commerce
+May,2014,LCD,245180,239590,E-commerce
+Jun,2014,LCD,172938,130636,E-commerce
+Jul,2014,LCD,152673,252316,E-commerce
+Aug,2014,LCD,203648,129354,E-commerce
+Sep,2014,LCD,115262,277360,E-commerce
+Oct,2014,LCD,89714,91110,E-commerce
+Nov,2014,LCD,222760,200936,E-commerce
+Dec,2014,LCD,84432,89744,E-commerce
+Jan,2014,Headphones,19184,19364,E-commerce
+Feb,2014,Headphones,17418,32788,E-commerce
+Mar,2014,Headphones,18404,22734,E-commerce
+Apr,2014,Headphones,15222,17618,E-commerce
+May,2014,Headphones,38735,17502,E-commerce
+Jun,2014,Headphones,23444,17670,E-commerce
+Jul,2014,Headphones,24006,21452,E-commerce
+Aug,2014,Headphones,19064,20700,E-commerce
+Sep,2014,Headphones,13348,12324,E-commerce
+Oct,2014,Headphones,15846,47975,E-commerce
+Nov,2014,Headphones,10088,25264,E-commerce
+Dec,2014,Headphones,20982,34588,E-commerce
+Jan,2014,Computers,588856,321928,E-commerce
+Feb,2014,Computers,805465,321144,E-commerce
+Mar,2014,Computers,317018,479132,E-commerce
+Apr,2014,Computers,349971,392853,E-commerce
+May,2014,Computers,583827,238042,E-commerce
+Jun,2014,Computers,236210,622470,E-commerce
+Jul,2014,Computers,347086,696088,E-commerce
+Aug,2014,Computers,721144,433209,E-commerce
+Sep,2014,Computers,585891,474688,E-commerce
+Oct,2014,Computers,351346,674040,E-commerce
+Nov,2014,Computers,315276,736820,E-commerce
+Dec,2014,Computers,245980,292906,E-commerce
+Jan,2014,Video games,293656,470695,E-commerce
+Feb,2014,Video games,419800,244704,E-commerce
+Mar,2014,Video games,239646,242079,E-commerce
+Apr,2014,Video games,161409,359950,E-commerce
+May,2014,Video games,471280,263472,E-commerce
+Jun,2014,Video games,152727,206946,E-commerce
+Jul,2014,Video games,260976,142448,E-commerce
+Aug,2014,Video games,238600,154060,E-commerce
+Sep,2014,Video games,366844,364108,E-commerce
+Oct,2014,Video games,377080,431230,E-commerce
+Nov,2014,Video games,467165,126008,E-commerce
+Dec,2014,Video games,197534,127298,E-commerce
+Jan,2014,Speakers,22844,44064,E-commerce
+Feb,2014,Speakers,251916,165528,E-commerce
+Mar,2014,Speakers,391355,129888,E-commerce
+Apr,2014,Speakers,201815,54755,E-commerce
+May,2014,Speakers,289470,206972,E-commerce
+Jun,2014,Speakers,193086,239932,E-commerce
+Jul,2014,Speakers,152840,40083,E-commerce
+Aug,2014,Speakers,75730,121944,E-commerce
+Sep,2014,Speakers,279675,251214,E-commerce
+Oct,2014,Speakers,54168,149455,E-commerce
+Nov,2014,Speakers,144774,285744,E-commerce
+Dec,2014,Speakers,122403,468255,E-commerce
+Jan,2015,Mobile,385808,365412,E-commerce
+Feb,2015,Mobile,278220,324312,E-commerce
+Mar,2015,Mobile,379985,243372,E-commerce
+Apr,2015,Mobile,478885,289788,E-commerce
+May,2015,Mobile,357872,194176,E-commerce
+Jun,2015,Mobile,146472,271635,E-commerce
+Jul,2015,Mobile,261402,405980,E-commerce
+Aug,2015,Mobile,152462,215277,E-commerce
+Sep,2015,Mobile,403645,241317,E-commerce
+Oct,2015,Mobile,297873,216507,E-commerce
+Nov,2015,Mobile,435690,174914,E-commerce
+Dec,2015,Mobile,313088,217836,E-commerce
+Jan,2015,LCD,152670,87504,E-commerce
+Feb,2015,LCD,82208,281890,E-commerce
+Mar,2015,LCD,310090,276424,E-commerce
+Apr,2015,LCD,340385,117054,E-commerce
+May,2015,LCD,242244,95540,E-commerce
+Jun,2015,LCD,286910,131478,E-commerce
+Jul,2015,LCD,201412,250932,E-commerce
+Aug,2015,LCD,200556,87166,E-commerce
+Sep,2015,LCD,113660,208341,E-commerce
+Oct,2015,LCD,89382,226535,E-commerce
+Nov,2015,LCD,164127,149382,E-commerce
+Dec,2015,LCD,83196,136002,E-commerce
+Jan,2015,Headphones,17052,18678,E-commerce
+Feb,2015,Headphones,34804,23316,E-commerce
+Mar,2015,Headphones,42705,28336,E-commerce
+Apr,2015,Headphones,14742,16652,E-commerce
+May,2015,Headphones,21453,16860,E-commerce
+Jun,2015,Headphones,26070,34536,E-commerce
+Jul,2015,Headphones,36650,11060,E-commerce
+Aug,2015,Headphones,22010,11336,E-commerce
+Sep,2015,Headphones,24812,31510,E-commerce
+Oct,2015,Headphones,14618,45990,E-commerce
+Nov,2015,Headphones,20805,31030,E-commerce
+Dec,2015,Headphones,24916,16664,E-commerce
+Jan,2015,Computers,732110,806800,E-commerce
+Feb,2015,Computers,483201,641532,E-commerce
+Mar,2015,Computers,633624,479948,E-commerce
+Apr,2015,Computers,233500,393273,E-commerce
+May,2015,Computers,389330,355998,E-commerce
+Jun,2015,Computers,587945,498392,E-commerce
+Jul,2015,Computers,865585,523320,E-commerce
+Aug,2015,Computers,899795,432015,E-commerce
+Sep,2015,Computers,778064,591615,E-commerce
+Oct,2015,Computers,873485,539200,E-commerce
+Nov,2015,Computers,786060,441132,E-commerce
+Dec,2015,Computers,366099,293458,E-commerce
+Jan,2015,Video games,290068,375480,E-commerce
+Feb,2015,Video games,418330,410070,E-commerce
+Mar,2015,Video games,159208,401015,E-commerce
+Apr,2015,Video games,107154,217056,E-commerce
+May,2015,Video games,466705,196179,E-commerce
+Jun,2015,Video games,150036,138650,E-commerce
+Jul,2015,Video games,433025,141948,E-commerce
+Aug,2015,Video games,119368,229908,E-commerce
+Sep,2015,Video games,272613,363372,E-commerce
+Oct,2015,Video games,299272,258996,E-commerce
+Nov,2015,Video games,462680,189249,E-commerce
+Dec,2015,Video games,393104,192438,E-commerce
+Jan,2015,Speakers,32223,29390,E-commerce
+Feb,2015,Speakers,249660,165488,E-commerce
+Mar,2015,Speakers,155542,96846,E-commerce
+Apr,2015,Speakers,79908,45400,E-commerce
+May,2015,Speakers,228732,154263,E-commerce
+Jun,2015,Speakers,128410,298880,E-commerce
+Jul,2015,Speakers,382450,66725,E-commerce
+Aug,2015,Speakers,44094,120996,E-commerce
+Sep,2015,Speakers,167880,336144,E-commerce
+Oct,2015,Speakers,37683,148840,E-commerce
+Nov,2015,Speakers,144970,284672,E-commerce
+Dec,2015,Speakers,120054,376216,E-commerce
